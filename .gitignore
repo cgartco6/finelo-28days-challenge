@@ -1,0 +1,4 @@
+node_modules
+dist
+coverage
+.avc/locks/*.json
